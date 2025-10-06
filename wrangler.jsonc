@@ -1,0 +1,7 @@
+{
+  "name": "lawyered-up-tech",
+  "compatibility_date": "2025-10-06",
+  "assets": {
+    "directory": "./dist"
+  }
+}
